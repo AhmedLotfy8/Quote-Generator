@@ -1,0 +1,15 @@
+.impact-fam {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3, p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    background-color: blue;
+}
+
+button:hover {
+    background-color:green;
+}
